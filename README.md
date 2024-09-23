@@ -28,4 +28,4 @@ To run this project locally, you just need a web browser.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-list.git
+   git clone https://github.com/Drkadam07/To-Do-List.git
