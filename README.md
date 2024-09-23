@@ -29,3 +29,9 @@ To run this project locally, you just need a web browser.
 1. Clone the repository:
    ```bash
    git clone https://github.com/Drkadam07/To-Do-List.git
+
+
+### Result / Output
+<!-- Screenshot -->
+![To-Do List App](./assets/ss/Screenshot%202024-09-23%20230030.png)
+![To-Do List App](./assets/ss/Screenshot%202024-09-23%20230048.png)
