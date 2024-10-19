@@ -32,6 +32,7 @@ To run this project locally, you just need a web browser.
 
 
 ### Result / Output
+[Live Demo](https://drkadam07.github.io/To-Do-List/)
 <!-- Screenshot -->
 ![To-Do List App](./assets/ss/Screenshot%202024-09-23%20230030.png)
 ![To-Do List App](./assets/ss/Screenshot%202024-09-23%20230048.png)
